@@ -1,0 +1,219 @@
+accept	allow	applaud	attach
+add	amuse	appreciate	attack
+admire	analyse	approve	attempt
+admit	announce	argue	attend
+advise	annoy	arrange	attract
+afford	answer	arrest	avoid
+agree	apologise	arrive
+alert	appear	ask
+
+
+B
+
+back	beg	boil	brake
+bake	behave	bomb	branch
+balance	belong	book	breathe
+ban	bless	bore	bruise
+bang	blind	borrow	brush
+bare	blink	bounce	bubble
+bat	blot	bow	bump
+bathe	blush	box	burn
+battle	boast	brake	bury
+beam
+
+
+
+C
+
+calculate	choke	compare	cough
+call	chop	compete	count
+camp	claim	complain	cover
+care	clap	complete	crack
+carry	clean	concentrate	crash
+carve	clear	concern	crawl
+cause	clip	confess	cross
+challenge	close	confuse	crush
+change	coach	connect	cry
+charge	coil	consider	cure
+chase	collect	consist	curl
+cheat	colour	contain	curve
+check	comb	continue	cycle
+cheer	command	copy
+chew	communicate	correct
+D
+
+dam	deliver	disapprove	dress
+damage	depend	disarm	drip
+dance	describe	discover	drop
+dare	desert	dislike	drown
+decay	deserve	divide	drum
+deceive	destroy	double	dry
+decide	detect	doubt
+E
+
+earn	end	excite	explain
+educate	enjoy	excuse	explode
+embarrass	enter	exercise	extend
+employ	entertain	exist
+empty	escape	expand
+encourage	examine	expect
+F
+
+face	fetch	flash	force
+fade	file	float	form
+fail	fill	flood	found
+fancy	film	flow	frame
+fasten	fire	flower	frighten
+fax	fit	fold	fry
+fear	fix	follow
+fence	flap	fool
+G
+
+gather	grab	grin	guard
+gaze	grate	grip	guess
+glow	grease	groan	guide
+glue	greet	guarantee
+H
+
+hammer	harm	heat	hug
+hand	hate	help	hum
+handle	haunt	hook	hunt
+hang	head	hop	hurry
+happen	heal	hope
+harass	heap	hover
+I
+
+identify	increase	intend	invite
+ignore	influence	interest	irritate
+imagine	inform	interfere	itch
+impress	inject	interrupt
+improve	injure	introduce
+include	instruct	invent
+J
+
+jail	jog	joke	juggle
+jam	join	judge	jump
+K
+
+kick	kiss	knit	knot
+kill	kneel	knock
+L
+
+label	learn	lighten	load
+land	level	like	lock
+last	license	list	long
+laugh	lick	listen	look
+launch	lie	live	love
+M
+
+man	matter	milk	move
+manage	measure	mine	mug
+march	meddle	miss	multiply
+mark	melt	mix	murder
+marry	memorise	moan
+match	mend	mourn
+mate	mess up
+N
+
+nail	need	nod	notice
+name	nest	note	number
+O
+
+obey	obtain	offer	overflow
+object	occur	open	owe
+observe	offend	order	own
+P
+
+pack	permit	pop	prevent
+paddle	phone	possess	prick
+paint	pick	post	print
+park	pinch	pour	produce
+part	pine	practise	program
+pass	place	pray	promise
+paste	plan	preach	protect
+pat	plant	precede	provide
+pause	play	prefer	pull
+peck	please	prepare	pump
+pedal	plug	present	punch
+peel	point	preserve	puncture
+peep	poke	press	punish
+perform	polish	pretend	push
+Q
+
+question	queue
+R
+
+race	refuse	remove	rhyme
+radiate	regret	repair	rinse
+rain	reign	repeat	risk
+raise	reject	replace	rob
+reach	rejoice	reply	rock
+realise	relax	report	roll
+receive	release	reproduce	rot
+recognise	rely	request	rub
+record	remain	rescue	ruin
+reduce	remember	retire	rule
+reflect	remind	return	rush
+S
+
+sack	shiver	soothe	stop
+sail	shock	sound	store
+satisfy	shop	spare	strap
+save	shrug	spark	strengthen
+saw	sigh	sparkle	stretch
+scare	sign	spell	strip
+scatter	signal	spill	stroke
+scold	sin	spoil	stuff
+scorch	sip	spot	subtract
+scrape	ski	spray	succeed
+scratch	skip	sprout	suck
+scream	slap	squash	suffer
+screw	slip	squeak	suggest
+scribble	slow	squeal	suit
+scrub	smash	squeeze	supply
+seal	smell	stain	support
+search	smile	stamp	suppose
+separate	smoke	stare	surprise
+serve	snatch	start	surround
+settle	sneeze	stay	suspect
+shade	sniff	steer	suspend
+share	snore	step	switch
+shave	snow	stir
+shelter	soak	stitch
+T
+
+talk	thaw	trace	trot
+tame	tick	trade	trouble
+tap	tickle	train	trust
+taste	tie	transport	try
+tease	time	trap	tug
+telephone	tip	travel	tumble
+tempt	tire	treat	turn
+terrify	touch	tremble	twist
+test	tour	trick	type
+thank	tow	trip
+U
+
+undress	unite	unpack	use
+unfasten	unlock	untidy
+V
+
+vanish	visit
+W
+
+wail	waste	whirl	work
+wait	watch	whisper	worry
+walk	water	whistle	wrap
+wander	wave	wink	wreck
+want	weigh	wipe	wrestle
+warm	welcome	wish	wriggle
+warn	whine	wobble
+wash	whip	wonder
+Y
+
+yawn
+yell
+Z
+
+zip
+zoom
